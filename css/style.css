@@ -1,0 +1,72 @@
+body {
+    font-family: 'Roboto', sans-serif; 
+    background-color: rgb(51, 51, 51);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:'Roboto';
+    color:white;
+}
+
+p {
+    color: white;
+}
+
+/* Navigation Bar and Hero Image */
+
+#hero {
+    background-image: url("../images/vr_hero.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 1000px;
+}
+
+.nav-brand {
+    padding-right: 100px;
+}
+
+.nav-link.active {
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+nav {
+    padding-left: 775px;
+}
+
+.jumbotron {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:85%;
+}
+
+.jumbotron h1 {
+    color: white;
+    font-weight: 200;
+}
+
+/* Headsets Section */ 
+
+#headsets {
+    background-image:url("../images/vr_back.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 35px;
+}
+
+#headsets h2 {
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#headsets h3 {
+    text-align: center;
+}
+
+.footer {
+    height: 100px;
+}
+
