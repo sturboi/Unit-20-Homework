@@ -15,7 +15,7 @@ p {
 /* Navigation Bar and Hero Image */
 
 #hero {
-    background-image: url("../images/vr_hero.webp");
+    background-image: url("../images/vr_hero.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
@@ -50,7 +50,7 @@ nav {
 /* Headsets Section */ 
 
 #headsets {
-    background-image:url("../images/vr_back.webp");
+    background-image:url("../images/vr_back.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 35px;
